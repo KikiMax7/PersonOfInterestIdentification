@@ -13,5 +13,5 @@ This project is mainly focused on the face recognition task. The images and vide
 + Recognition Result
 <img src="https://github.com/KikiMax7/PersonOfInterestIdentification/blob/master/demoResult/recognition.png">
 + Sample Video Recognition Result
-![friends][https://drive.google.com/file/d/17a1FlTL8dL7MN9xoTNYEuNErJHWtEHM3/view?usp=sharing]
-![GladysLiu][https://drive.google.com/file/d/1K0EJnTJGz9bnZcfS8Nb-c-kV4g_UTEhY/view?usp=sharing]
+[friends_Sample](https://drive.google.com/file/d/17a1FlTL8dL7MN9xoTNYEuNErJHWtEHM3/view?usp=sharing)
+[GladysLiu_Sample](https://drive.google.com/file/d/1K0EJnTJGz9bnZcfS8Nb-c-kV4g_UTEhY/view?usp=sharing)
